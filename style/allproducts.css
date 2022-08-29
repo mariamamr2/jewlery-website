@@ -1,0 +1,260 @@
+.navbar-brand img{
+    width: 60px;
+    height: 50px;
+    position: absolute;
+    left: -23%;
+    top: -55%;
+}
+
+.bg-light nav{
+    background-color: #ffe6cf;
+}
+
+
+.carousel-inner{
+    border-radius: 169px;    
+    margin-left: 4px;}
+
+.btn-outline-dark{
+    position: absolute;
+    top: 75%;
+    left: 42%;
+    width: 12%;
+    height: 7%;
+}
+.buttonsearch .btn-outline-dark{
+    width: 91px;
+    height: 37px;
+    margin-left: 352px;
+    margin-top: -32px;
+} 
+.d-flex{
+
+    margin-right: 383px;
+
+    width: 336px;
+}
+.brands{
+    margin-right: 36px;
+    margin-left: -110px;
+}
+.fa-facebook, .fa-instagram, .fa-twitter, .fa-envelope{
+    margin-left: 10px;
+}
+.brands  :hover{
+    color: #ffe6cf;
+}
+.nav-link  :hover{
+    color: #ffe6cf;
+}
+
+
+.form{
+    text-align: center;
+    margin-top: 208px;
+    background-color: #ffecda;
+    border-radius: 66px;
+    height: 292px;
+    margin-left: 344px;
+    width: 693px;
+}
+
+
+
+.bracelet{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+
+    margin-top: 202px;
+    justify-content: space-around;
+
+
+}
+.bracelet img{
+        width: 250px;
+        border-radius: 18px;
+
+}
+#bracelet11 img{
+    height: 249px;
+    border-radius: 18px;
+
+}
+.titles{
+    margin-left: 42px;
+
+    margin-bottom: 36px;
+    font-size:60px;
+    font-family: fangsong;
+    color: #645f5b;
+    font-style: italic;
+    top: 17%;
+ 
+}
+.titles p{
+           margin-top: 91px;
+        
+        position: absolute;
+}
+.seemore a{
+    text-decoration: none;
+    color: #645f5b;
+}
+.seemore{
+    position: absolute;
+    left: 88%;
+    margin-top: 8%;
+
+}
+.seemore i{
+    
+    margin-left: 19px;
+}
+.seemore :hover{
+    color: white;
+}
+.titles1{
+    font-size: 60px;
+    font-family: fangsong;
+    color: #645f5b;
+    font-style: italic;
+    margin-left: 42px;
+    position: absolute;
+    display: grid;
+    margin-top: 51px;
+}
+.titles1 p{
+    margin-top: 15px;
+}
+.rings{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+.rings img{
+    width: 250px;
+    margin-top: 202px;
+    justify-content: space-around;
+    margin-left: 13px;
+    border-radius: 18px;
+
+}
+.necklace{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+.necklace img{
+    width: 250px;
+    margin-top: 202px;
+    justify-content: space-around;
+    margin-left: 13px;
+    border-radius: 18px;
+
+}
+.titles2{
+    font-size: 60px;
+    font-family: fangsong;
+    color: #645f5b;
+    font-style: italic;
+    margin-left: 42px;
+    position: absolute;
+    display: grid;
+    margin-top: 51px;
+}
+.earring{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+.earring img{
+    width: 250px;
+    margin-top: 202px;
+    justify-content: space-around;
+    margin-left: 13px;
+    border-radius: 18px;
+
+}
+.earring2 img{
+    border-radius: 18px;
+
+    height: 250px;
+
+}
+.titles3{
+    font-size: 60px;
+    font-family: fangsong;
+    color: #645f5b;
+    font-style: italic;
+    margin-left: 42px;
+    position: absolute;
+    display: grid;
+    margin-top: 51px;
+}
+.anklets{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;  
+}
+.anklets img{
+    width: 250px;
+    margin-top: 202px;
+    justify-content: space-around;
+    margin-left: 13px;
+    border-radius: 18px;
+
+}
+.titles4{
+    font-size: 60px;
+    font-family: fangsong;
+    color: #645f5b;
+    font-style: italic;
+    margin-left: 42px;
+    position: absolute;
+    display: grid;
+    margin-top: 51px;
+}
+.backcolor{
+    background-color: #ffecda45;
+    position: relative;
+}
+.footer{
+    display: grid;
+    grid-template-columns: auto auto;
+    background: #f8f9fa;
+    padding: 52px;
+    border-bottom: 1px solid #c1bcbc;
+    margin-top: 163px
+}
+.footer2{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 8px;
+}
+.footer11{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.footer11 img{
+    height: 59px;
+    margin-left: 80px;
+    margin-right: -53px;
+    border-radius: 18px;
+
+}
+.footer111{
+    margin-left: -98px;
+    margin-top: 12px;
+}
+
+
+
+.footer2{
+
+        font-family: system-ui;font-weight: 100;font-size: small;
+        color: #645e59;
+
+}
+.footer111 p{
+    font-family: fangsong;
+    font-weight: 600;
+    margin-right: 155px;
+    color: #eac19d;
+    margin-top: 10px;
+}

@@ -1,0 +1,301 @@
+.navbar-brand img{
+    width: 60px;
+    height: 50px;
+    position: absolute;
+    left: -23%;
+    top: -55%;
+}
+
+.bg-light nav{
+    background-color: #ffe6cf;
+}
+#carouselExampleIndicators{
+   
+    width: 28%;
+    position: absolute;
+    left: 22%;
+
+    top: 183%;
+}
+.containerimg img{
+    height: 567px;
+    width: 1370px;
+}
+.carousel-inner{
+    border-radius: 169px;    
+    margin-left: 4px;}
+.title h3{
+    position: absolute;
+    font-size: 99px;
+    font-style: italic;
+    top: 33%;
+    left: 21%;
+    opacity: 0.7;
+    font-family: emoji;
+    text-align: center;
+}
+.btn-outline-dark{
+    position: absolute;
+    top: 75%;
+    left: 42%;
+    width: 12%;
+    height: 7%;
+    
+}
+#shop a{
+    text-decoration: none;
+color: #645e59;
+}
+
+.buttonsearch .btn-outline-dark{
+    width: 91px;
+    height: 37px;
+    margin-left: 352px;
+    margin-top: -32px;
+} 
+
+.d-flex{
+
+    margin-right: 383px;
+
+    width: 336px;
+}
+.brands{
+    margin-right: 36px;
+    margin-left: -110px;
+}
+.fa-facebook, .fa-instagram, .fa-twitter, .fa-envelope{
+    margin-left: 10px;
+}
+.brands  :hover{
+    color: #ffe6cf;
+}
+.nav-link  :hover{
+    color: #ffe6cf;
+}
+.catimg {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    padding: 22px;
+
+
+}
+.catimg img{
+
+    width: 250px;
+    border-radius: 77px;
+
+}
+
+#rings img, #anklets img{
+    height: 251px;
+}
+.classtitle p{
+    font-size: 66px;
+    font-family: fangsong;
+    text-align: center;
+    color: #645e59;
+    opacity: 0.9;
+    font-style: italic;
+    margin-top: 18px;
+    margin-bottom: 30px;
+}
+.cattile3 {
+    position: absolute;
+    top: 139%;
+    left: 46%;
+    font-family: unset;
+    font-size: xx-large;
+    color: white;
+    font-weight: 200;
+}
+.cattile1{
+    position: absolute;
+    top: 139%;
+    left: 7%;
+    font-family: unset;
+    font-size: xx-large;
+    color: white;
+    font-weight: 200;
+}
+.cattile2{
+    position: absolute;
+    top: 139%;
+    left: 27%;
+    font-family: unset;
+    font-size: xx-large;
+    color: white;
+    font-weight: 200;
+}
+.cattile4{
+    position: absolute;
+    top: 139%;
+    left: 66%;
+    font-family: unset;
+    font-size: xx-large;
+    color: white;
+    font-weight: 200;
+}
+.cattile5{
+    position: absolute;
+    top: 139%;
+    left: 84%;
+    font-family: unset;
+    font-size: xx-large;
+    color: white;
+    font-weight: 200;
+}
+.catimg a{
+    text-decoration: none;
+    color: white;
+}
+.cattile1 :hover, .cattile2 :hover, .cattile3 :hover, .cattile4  :hover, .cattile5 :hover{
+    color: #ffe6cf;
+    }
+.backcolor{
+    width: 100%;
+    height: 103%;
+    border-radius: 169px;    
+    position: absolute;
+    background-color: #ffe2c7a8;
+    margin-top: 54px;
+}
+.caption {
+    margin-top: 135px;
+    margin-left: 699px;
+    position: absolute;
+    text-transform: lowercase;
+    font-size: 76px;
+    font-family: unset;
+    font-weight: 400;
+    color: #ffffff;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #978b80;
+
+
+}
+.captionp1{
+    font-weight: 700;
+    margin-left: -22px;
+}
+.captionp2{
+    margin-left: -22px;
+}
+.sales .classtitle p{
+    
+    margin-top: 725px;
+
+}
+.salesimg{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-evenly;
+    grid-row-gap: 85px;
+    margin-top: 51px;
+    text-decoration: none;
+}
+.salesimg img{
+    width: 222px;
+    margin-bottom: 23px;
+    position: relative;
+}
+.titleprice{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.titleprice{
+    display: none;
+    
+}
+.salestitle{
+    font-weight: 600;
+    font-size: large;
+}
+.salesprice{
+    text-decoration: line-through;
+}
+.form{
+    text-align: center;
+    margin-top: 208px;
+    background-color: #ffecda;
+    border-radius: 66px;
+    height: 292px;
+    margin-left: 344px;
+    width: 693px;
+}
+.mb-3{
+    width: 470px;
+   
+    margin-left: 53px;
+    
+}
+.button .btn-outline-dark{
+
+    position: absolute;
+    margin-top: 159px;
+    width: 118px;
+    top: 551%;
+    left: 65%;
+
+    border-color: #746e6a78;
+
+}
+.formtitle p{
+    font-size: 66px;
+    font-family: fangsong;
+    text-align: center;
+    color: #645e59;
+    opacity: 0.9;
+    font-style: italic;
+}
+.formtitle2 p{
+    font-size: 20px;
+    font-family: fangsong;
+    text-align: center;
+    color: #645e59;
+    opacity: 0.9;
+    font-style: italic;
+}
+
+.footer{
+    display: grid;
+    grid-template-columns: auto auto;
+    background: #f8f9fa;
+    padding: 52px;
+    border-bottom: 1px solid #c1bcbc;
+    margin-top: 163px
+}
+.footer2{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 8px;
+}
+.footer11{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.footer11 img{
+    height: 59px;
+    margin-left: 80px;
+    margin-right: -53px;
+}
+.footer111{
+    margin-left: -98px;
+    margin-top: 12px;
+}
+
+
+
+.footer2{
+
+        font-family: system-ui;font-weight: 100;font-size: small;
+        color: #645e59;
+
+}
+.footer111 p{
+    font-family: fangsong;
+    font-weight: 600;
+    margin-right: 155px;
+    color: #eac19d;
+    margin-top: 10px;
+}
